@@ -1,0 +1,9 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+banco.db
+.vscode/
+*.session.sql
+db_session.sql
